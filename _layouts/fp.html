@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"/>
+  <title>{{ page.title }}</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  <style>
+    body, html { margin:0; padding:0; background:#fff; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .fp-container { display: flex; max-width:1200px; margin:0 auto; min-height:100vh; }
+    .fp-sidebar { width:280px; background:#f7f7f7; padding:32px 24px 24px; border-right:1px solid #eee; }
+    .fp-logo { width:120px; margin-bottom:24px; }
+    .fp-links { margin-bottom:32px; font-size:.95rem; }
+    .fp-links a { color:#0366d6; text-decoration:none; display:block; margin-bottom:8px; }
+    .fp-main { flex:1; padding:48px 40px; }
+    @media (max-width: 800px) {
+      .fp-container { flex-direction:column; }
+      .fp-sidebar { width:100%; border-right:none; border-bottom:1px solid #eee; }
+      .fp-main { padding:24px 12px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="fp-container">
+    <aside class="fp-sidebar">
+      <img class="fp-logo" src="{{ site.logo | relative_url }}" alt="logo"/>
+      <div class="fp-links">
+        <strong>个人站点：</strong>
+        <a href="https://maryqk2025.github.io" target="_blank">maryqk2025.github.io</a>
+        <strong>学术站点：</strong>
+        <a href="https://scholar.google.com/citations?user=xxxx" target="_blank">Google Scholar</a>
+        <strong>个人仓库：</strong>
+        <a href="https://github.com/maryQK2025/maryqk2025.github.io" target="_blank">GitHub Repo</a>
+      </div>
+    </aside>
+    <main class="fp-main">
+      {{ content }}
+    </main>
+  </div>
+</body>
+</html>
