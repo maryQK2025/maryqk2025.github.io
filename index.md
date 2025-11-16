@@ -1,5 +1,3 @@
-<!-- 中文主页 index.md -->
-
 ---
 layout: fp
 title: Keke's CV
