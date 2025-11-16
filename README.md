@@ -13,9 +13,9 @@
 
 ##  🔍**Research Focus**
 
-- 🔹 <b>Renewable Energy Systems:</b> Planning & Optimization
-- 🔹 <b>Robust/Stochastic Optimization:</b> Advanced Methods for Power Grids
-- 🔹 <b>Sustainable Strategies:</b> Energy Transition Design & Implementation
+- 🔹 <b>Renewable Energy Systems:</b> Planning & Optimization.
+- 🔹 <b>Robust/Stochastic Optimization:</b> Advanced Methods for Power Grids.
+- 🔹 <b>Sustainable Strategies:</b> Energy Transition Design & Implementation.
 
 ---
 
