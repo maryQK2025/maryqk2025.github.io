@@ -1,0 +1,20 @@
+{%- assign file = include.file -%}
+{%- assign height = include.height | default: "800" -%}
+{%- assign viewer = include.viewer | default: "native" -%}
+{%- if viewer == "pdfjs" -%}
+  <iframe class="pdf-frame"
+          src="https://mozilla.github.io/pdf.js/web/viewer.html?file={{ file | absolute_url }}"
+          width="100%" height="{{ height }}" style="border:0;">
+  </iframe>
+{%- elsif viewer == "google" -%}
+  <iframe class="pdf-frame"
+          src="https://drive.google.com/viewerng/viewer?embedded=1&url={{ file | absolute_url }}"
+          width="100%" height="{{ height }}" style="border:0;">
+  </iframe>
+{%- else -%}
+  <object data="{{ file | relative_url }}" type="application/pdf" width="100%" height="{{ height }}px">
+    <p>无法内嵌显示。下载：
+      <a href="{{ file | relative_url }}">{{ file | split:'/' | last }}</a>
+    </p>
+  </object>
+{%- endif -%}
