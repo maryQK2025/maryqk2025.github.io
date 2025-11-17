@@ -1,18 +1,18 @@
 title: 站点demo
-logo: /assets/img/logo.png
+logo: /assets/img/logo.jpg
 description: 个人站点demo.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
 
 # 新增站点根配置
-url: https://pages.github.schneider-electric.com    # 不要末尾斜杠
-baseurl: /SESA712911/SESA712911.github.io      # 用户主页为空；若以后换成项目页再改为 /仓库名
+url: https://maryqk2025.github.io   # 不要末尾斜杠
+baseurl: ""      # 用户主页为空；若以后换成项目页再改为 /仓库名
 
 site_url: https://maryqk2025.github.io
 scholar_url: https://scholar.google.com/citations?user=xxxx
 repo_url: https://github.com/maryQK2025/maryqk2025.github.io
-email: your@email.com
+email: qk@sicnu.edu.cn
 personal_website: https://yourwebsite.com
 
 collections:
