@@ -10,6 +10,7 @@ permalink: /index_en.html
 
 *Teacher | Researcher | Renewable Energy Systems Specialist*
 
+
 ---
 
 ## 🎯 **Professional Identity**
