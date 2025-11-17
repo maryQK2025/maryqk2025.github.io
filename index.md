@@ -4,11 +4,13 @@ title: Keke's CV
 permalink: /
 ---
 
-[English](/index_en.html)
+<div style="text-align:right; margin-bottom:18px;">
+  <a href="/index_en.html">English</a>
+</div>
 
 # 🌱 MaryQK
 
-*教师 | 研究者 | 可再生能源系统专家*
+*教师 \| 研究员 \| 可再生能源系统专家*
 
 
 ---
