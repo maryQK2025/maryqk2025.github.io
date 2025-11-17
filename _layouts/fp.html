@@ -9,7 +9,18 @@
     body, html { margin:0; padding:0; background:#fff; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     .fp-container { display: flex; max-width:1200px; margin:0 auto; min-height:100vh; }
     .fp-sidebar { width:280px; background:#f7f7f7; padding:32px 24px 24px; border-right:1px solid #eee; }
-    .fp-logo { width:120px; margin-bottom:24px; }
+    .fp-logo-wrap { display: flex; justify-content: center; align-items: center; margin-bottom: 24px; }
+    .fp-logo {
+      width: 160px; /* 放大 logo */
+      height: 160px;
+      border: 5px solid #4ea5ec; /* 灰色圆圈装饰 */
+      border-radius: 50%;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      background: #fff;
+      object-fit: contain;
+      padding: 10px;
+      display: block;
+    }
     .fp-links { margin-bottom:32px; font-size:.95rem; }
     .fp-links a { color:#0366d6; text-decoration:none; display:block; margin-bottom:8px; }
     .fp-main { flex:1; padding:48px 40px; }
@@ -23,7 +34,9 @@
 <body>
   <div class="fp-container">
     <aside class="fp-sidebar">
-      <img class="fp-logo" src="{{ site.logo | relative_url }}" alt="logo"/>
+      <div class="fp-logo-wrap">
+        <img class="fp-logo" src="{{ site.logo | relative_url }}" alt="logo"/>
+      </div>
       <div class="fp-links">
         <strong>个人站点：</strong>
         <a href="https://maryqk2025.github.io" target="_blank">maryqk2025.github.io</a>
