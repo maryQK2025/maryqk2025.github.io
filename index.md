@@ -4,9 +4,7 @@ title: Keke's CV
 permalink: /
 ---
 
-<div style="text-align:right; margin-bottom:18px;">
-  <a href="/index_en.html">English</a>
-</div>
+[English](/index_en.html)
 
 # 🌱 MaryQK
 
