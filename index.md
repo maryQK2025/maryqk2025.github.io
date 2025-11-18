@@ -60,6 +60,8 @@ permalink: /
 3. [K. Qing, Q. Huang, Y. F. Du. Integrated optimal planning of distribution network with geographical-zone-restricted renewable energy sources[J]. Frontiers in Energy Research, 2022,10: 864914. (SCI  IF: 3.4   JCR  Q3区，中科院4区)](https://doi.org/10.3389/fenrg.2022.864914)
 4. [K. Qing, Z. Y. Zhang, Q. Huang, et al. A novel optimized planning approach of BESS considering investor benefit and wind curtailment[C]. IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia). Chengdu, 2021: 1434-1439. (EI)](https://doi.org/10.1109/ICPSAsia52756.2021.9621675)
 5. [K. Qing, Q. Huang, S. H. Chen, et al. Optimized operating strategy for a distribution network containing BESS and renewable energy, in: 2019 IEEE Innovative Smart Grid Technologies-Asia (ISGT Asia), Chengdu, China, 2019: 1593-97. (EI)](https://doi.org/10.1109/ISGT-Asia.2019.8881304)
+
+
 <!-- 
 - [论文一标题](https://www.researchgate.net/publication/xxxx) <span style="font-size:0.9em; color:#888; margin-left:8px;">[<a href="/words/word1" style="color:#888; text-decoration:underline;">查看原文</a>]</span>
 - [论文二标题](https://www.researchgate.net/publication/yyyy) <span style="font-size:0.9em; color:#888; margin-left:8px;">[<a href="/words/word1" style="color:#888; text-decoration:underline;">查看原文</a>]</span>
