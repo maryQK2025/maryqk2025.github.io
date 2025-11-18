@@ -11,9 +11,9 @@ baseurl: ""      # 用户主页为空；若以后换成项目页再改为 /仓�
 
 site_url: https://github.com/maryQK2025
 scholar_url: https://scholar.google.com/citations?user=xxxx
-repo_url: https://github.com/maryQK2025/maryqk2025.github.io
+repo_url: https://github.com/maryQK2025?tab=repositories
 email: qk@sicnu.edu.cn
-personal_website: https://yourwebsite.com
+personal_website: https://maryqk2025.github.io/
 
 collections:
   papers:

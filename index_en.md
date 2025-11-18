@@ -19,7 +19,7 @@ permalink: /index_en.html
 
 - <kbd>Current Position</kbd>: **Teacher / Researcher**
 - <kbd>Expertise</kbd>: **Renewable Energy System Planning & Optimization**
-- <kbd>Specialization</kbd>: **Robust Optimization for Power Grids | Sustainable Energy Transition**
+- <kbd>Specialization</kbd>: **Robust Optimization for Power Grids \| Sustainable Energy Transition**
 
 ---
 
