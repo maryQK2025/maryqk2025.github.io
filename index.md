@@ -79,4 +79,4 @@ permalink: /
 - 网站：[{{ site.personal_website }}]({{ site.personal_website }})
 - 邮箱：{{ site.email }}
 
-> 🔎 *Browse my repositories for energy system models, teaching materials, and research outputs.*
+> 🔎 *我的仓库中会陆续更新能源系统模型、教学资料与研究成果。*

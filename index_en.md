@@ -56,11 +56,11 @@ permalink: /index_en.html
 
 ## 📚 **Selected Publications**
 
-1. Qing K, Du Y F, Huang Q, et al. Energy scheduling for microgrids with renewable energy sources considering an adjustable convex hull based uncertainty set [J]. Renewable Energy, 2024, 220: 119611. (SCI, IF: 8.7, JCR Q1, CAS Zone 1) [Link](https://doi.org/10.1016/j.renene.2023.119611)
-2. K. Qing, Q. Huang, Y. F. Du, et al. Distributionally robust unit commitment with an adjustable uncertainty set and dynamic demand response [J]. Energy, 2022, 262: 125434. (SCI, IF: 9, JCR Q1, CAS Zone 1) [Link](https://doi.org/10.1016/j.energy.2022.125434)
-3. K. Qing, Q. Huang, Y. F. Du. Integrated optimal planning of distribution network with geographical-zone-restricted renewable energy sources [J]. Frontiers in Energy Research, 2022, 10: 864914. (SCI, IF: 3.4, JCR Q3, CAS Zone 4) [Link](https://doi.org/10.3389/fenrg.2022.864914)
-4. K. Qing, Z. Y. Zhang, Q. Huang, et al. A novel optimized planning approach of BESS considering investor benefit and wind curtailment [C]. IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia), Chengdu, 2021: 1434-1439. (EI) [Link](https://doi.org/10.1109/ICPSAsia52756.2021.9621675)
-5. K. Qing, Q. Huang, S. H. Chen, et al. Optimized operating strategy for a distribution network containing BESS and renewable energy, in: 2019 IEEE Innovative Smart Grid Technologies-Asia (ISGT Asia), Chengdu, China, 2019: 1593-97. (EI) [Link](https://doi.org/10.1109/ISGT-Asia.2019.8881304)
+1. [Qing K, Du Y F, Huang Q, et al. Energy scheduling for microgrids with renewable energy sources considering an adjustable convex hull based uncertainty set [J]. Renewable Energy, 2024, 220: 119611. (SCI, IF: 8.7, JCR Q1, CAS Zone 1)](https://doi.org/10.1016/j.renene.2023.119611)
+2. [K. Qing, Q. Huang, Y. F. Du, et al. Distributionally robust unit commitment with an adjustable uncertainty set and dynamic demand response [J]. Energy, 2022, 262: 125434. (SCI, IF: 9, JCR Q1, CAS Zone 1)](https://doi.org/10.1016/j.energy.2022.125434)
+3. [K. Qing, Q. Huang, Y. F. Du. Integrated optimal planning of distribution network with geographical-zone-restricted renewable energy sources [J]. Frontiers in Energy Research, 2022, 10: 864914. (SCI, IF: 3.4, JCR Q3, CAS Zone 4)](https://doi.org/10.3389/fenrg.2022.864914)
+4. [K. Qing, Z. Y. Zhang, Q. Huang, et al. A novel optimized planning approach of BESS considering investor benefit and wind curtailment [C]. IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia), Chengdu, 2021: 1434-1439. (EI)](https://doi.org/10.1109/ICPSAsia52756.2021.9621675)
+5. [K. Qing, Q. Huang, S. H. Chen, et al. Optimized operating strategy for a distribution network containing BESS and renewable energy, in: 2019 IEEE Innovative Smart Grid Technologies-Asia (ISGT Asia), Chengdu, China, 2019: 1593-97. (EI)](https://doi.org/10.1109/ISGT-Asia.2019.8881304)
 
 ## 🌟 **Mission Statement**
 
