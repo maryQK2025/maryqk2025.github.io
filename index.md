@@ -10,12 +10,12 @@ permalink: /
 
 # 🌱 MaryQK
 
-*教师 \| 研究员 \| 可再生能源系统专家*
+*教师 \| 研究员 \| 综合能源系统专家*
 
 
 ---
 
-## 🎯 职业身份
+## 🎯 **职业身份**
 
 - <kbd>现任职位</kbd>：讲师
 - <kbd>专长</kbd>：电-氢综合能源系统规划与优化
@@ -23,7 +23,7 @@ permalink: /
 
 ---
 
-##  🔍 研究方向
+##  🔍 **研究方向**
 
 - 综合能源系统的规划与优化  
   *聚焦电-氢-热多能互补，推动能源结构转型与高效利用。*
@@ -38,13 +38,13 @@ permalink: /
 
 ---
 
-## 🛠️ 技术工具箱
+## 🛠️ **技术工具箱**
 
 *Gurobi优化求解器、 MATLAB、C语言*  
 
 ---
 
-## 🎓 学术与职业经历
+## 🎓 **学术与职业经历**
 
 - 博士，电子科技大学，2023
 - 教学：电力系统分析、电力电子技术、EDA
@@ -68,13 +68,15 @@ permalink: /
 - [论文三标题](https://www.researchgate.net/publication/zzzz) <span style="font-size:0.9em; color:#888; margin-left:8px;">[<a href="/words/word1" style="color:#888; text-decoration:underline;">查看原文</a>]</span>
 -->
 
-## 🌟 使命宣言
+## 🌟 **使命宣言**
 
-> 以可持续、低碳电力赋能人类，迈向绿色未来。
+> *以可持续、低碳电力赋能人类，迈向绿色未来。*
 
 ---
 
-## 🤝 联系与合作
+## 🤝 **联系与合作**
 
 - 网站：[{{ site.personal_website }}]({{ site.personal_website }})
 - 邮箱：{{ site.email }}
+
+> 🔎 *Browse my repositories for energy system models, teaching materials, and research outputs.*
